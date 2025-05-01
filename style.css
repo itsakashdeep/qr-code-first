@@ -1,0 +1,36 @@
+body {
+    background-color: #d6e2f0;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .qr-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #1f3251;
+    margin-top: 20px;
+  }
+  
+  p {
+    font-size: 15px;
+    color: #7b879d;
+    margin-top: 10px;
+  }
+  
